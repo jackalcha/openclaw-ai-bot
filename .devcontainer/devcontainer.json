@@ -1,5 +1,5 @@
 {
-  "name": "OpenClaw AI Bot"
+  "name": "OpenClaw AI Bot",
   "image": "mcr.microsoft.com/devcontainers/universal:latest",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {
